@@ -11,4 +11,5 @@ int main() {
 	Userkomplex.Pieskaitit(1, 2);
 	Userkomplex.Reizinat(1, 2);
 	Userkomplex.Drukat();
+
 }

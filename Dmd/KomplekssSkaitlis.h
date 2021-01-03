@@ -13,4 +13,6 @@ public:
 	void Reizinat(double number3, double number4);
 
 	void Drukat();
+
+	~KomplekssSkaitlis();
 };
